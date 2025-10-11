@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/thepandeyakash/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thepandeyakash/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/thepandeyakash/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thepandeyakash/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/thepandeyakash/LeetCode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/thepandeyakash/LeetCode/tree/master/2050-count-good-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/thepandeyakash/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/thepandeyakash/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
