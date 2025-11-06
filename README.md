@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thepandeyakash/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/0022-generate-parentheses) |
 | [0541-reverse-string-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0541-reverse-string-ii) |
+| [1542-consecutive-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1542-consecutive-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Linked List
 |  |
