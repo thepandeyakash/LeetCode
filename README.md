@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/thepandeyakash/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/thepandeyakash/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/thepandeyakash/LeetCode/tree/master/2050-count-good-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/thepandeyakash/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/thepandeyakash/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/thepandeyakash/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
