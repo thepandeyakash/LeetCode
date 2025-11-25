@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thepandeyakash/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thepandeyakash/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thepandeyakash/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/thepandeyakash/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/thepandeyakash/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/thepandeyakash/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
