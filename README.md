@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/thepandeyakash/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thepandeyakash/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/thepandeyakash/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1470-shuffle-the-array](https://github.com/thepandeyakash/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thepandeyakash/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/thepandeyakash/LeetCode/tree/master/1929-concatenation-of-array) |
