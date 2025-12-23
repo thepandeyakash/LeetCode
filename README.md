@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thepandeyakash/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thepandeyakash/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/thepandeyakash/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/thepandeyakash/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/thepandeyakash/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thepandeyakash/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
