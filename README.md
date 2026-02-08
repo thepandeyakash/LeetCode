@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1542-consecutive-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1542-consecutive-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/thepandeyakash/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/thepandeyakash/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Linked List
 |  |
