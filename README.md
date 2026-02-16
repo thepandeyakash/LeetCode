@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/thepandeyakash/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thepandeyakash/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/thepandeyakash/LeetCode/tree/master/0231-power-of-two) |
+| [0477-total-hamming-distance](https://github.com/thepandeyakash/LeetCode/tree/master/0477-total-hamming-distance) |
 | [2050-count-good-numbers](https://github.com/thepandeyakash/LeetCode/tree/master/2050-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/thepandeyakash/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/thepandeyakash/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/thepandeyakash/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/thepandeyakash/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/thepandeyakash/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/thepandeyakash/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/thepandeyakash/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/thepandeyakash/LeetCode/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/thepandeyakash/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/thepandeyakash/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thepandeyakash/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
