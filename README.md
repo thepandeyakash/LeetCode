@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/thepandeyakash/LeetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/thepandeyakash/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thepandeyakash/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0053-maximum-subarray) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Backtracking
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/thepandeyakash/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/thepandeyakash/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/thepandeyakash/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thepandeyakash/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
