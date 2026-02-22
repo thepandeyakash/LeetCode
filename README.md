@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thepandeyakash/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thepandeyakash/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thepandeyakash/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thepandeyakash/LeetCode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/thepandeyakash/LeetCode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thepandeyakash/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/thepandeyakash/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thepandeyakash/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/thepandeyakash/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/thepandeyakash/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting Sort
 |  |
