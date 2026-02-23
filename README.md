@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/thepandeyakash/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/thepandeyakash/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/thepandeyakash/LeetCode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thepandeyakash/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/thepandeyakash/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thepandeyakash/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
