@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thepandeyakash/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1542-consecutive-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1542-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/thepandeyakash/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/thepandeyakash/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thepandeyakash/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thepandeyakash/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
