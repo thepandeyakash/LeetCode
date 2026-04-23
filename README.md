@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thepandeyakash/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1542-consecutive-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1542-consecutive-characters) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/thepandeyakash/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/thepandeyakash/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thepandeyakash/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/thepandeyakash/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/thepandeyakash/LeetCode/tree/master/0877-stone-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Backtracking
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/thepandeyakash/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thepandeyakash/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
