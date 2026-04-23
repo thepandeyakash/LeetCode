@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thepandeyakash/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/thepandeyakash/LeetCode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/thepandeyakash/LeetCode/tree/master/0877-stone-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/thepandeyakash/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thepandeyakash/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/thepandeyakash/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thepandeyakash/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
