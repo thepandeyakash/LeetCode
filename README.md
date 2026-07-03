@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/thepandeyakash/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thepandeyakash/LeetCode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/thepandeyakash/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/thepandeyakash/LeetCode/tree/master/0877-stone-game) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/thepandeyakash/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/thepandeyakash/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/thepandeyakash/LeetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/thepandeyakash/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
