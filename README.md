@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thepandeyakash/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thepandeyakash/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thepandeyakash/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/thepandeyakash/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/thepandeyakash/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -348,9 +349,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thepandeyakash/LeetCode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thepandeyakash/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thepandeyakash/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/thepandeyakash/LeetCode/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thepandeyakash/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thepandeyakash/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
