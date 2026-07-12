@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thepandeyakash/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thepandeyakash/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/thepandeyakash/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thepandeyakash/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/thepandeyakash/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/thepandeyakash/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/thepandeyakash/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thepandeyakash/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thepandeyakash/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/thepandeyakash/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thepandeyakash/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thepandeyakash/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/thepandeyakash/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thepandeyakash/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/thepandeyakash/LeetCode/tree/master/0079-word-search) |
 ## Tree
