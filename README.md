@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thepandeyakash/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thepandeyakash/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/thepandeyakash/LeetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/thepandeyakash/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thepandeyakash/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thepandeyakash/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thepandeyakash/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thepandeyakash/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/thepandeyakash/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting Sort
@@ -352,10 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Depth-First Search
 |  |
@@ -387,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thepandeyakash/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
