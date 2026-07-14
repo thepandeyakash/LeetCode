@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/thepandeyakash/LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/thepandeyakash/LeetCode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/thepandeyakash/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/thepandeyakash/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thepandeyakash/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thepandeyakash/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/thepandeyakash/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/thepandeyakash/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/thepandeyakash/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
