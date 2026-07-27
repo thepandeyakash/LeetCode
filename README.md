@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/thepandeyakash/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/thepandeyakash/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/thepandeyakash/LeetCode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thepandeyakash/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thepandeyakash/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/thepandeyakash/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
+| [0853-car-fleet](https://github.com/thepandeyakash/LeetCode/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thepandeyakash/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thepandeyakash/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Merge Sort
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thepandeyakash/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/thepandeyakash/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/thepandeyakash/LeetCode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/thepandeyakash/LeetCode/tree/master/0877-stone-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/thepandeyakash/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thepandeyakash/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/thepandeyakash/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/thepandeyakash/LeetCode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thepandeyakash/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
