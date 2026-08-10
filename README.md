@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/thepandeyakash/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/thepandeyakash/LeetCode/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/thepandeyakash/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thepandeyakash/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/thepandeyakash/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/thepandeyakash/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/thepandeyakash/LeetCode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thepandeyakash/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1542-consecutive-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1542-consecutive-characters) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/thepandeyakash/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/thepandeyakash/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0763-partition-labels](https://github.com/thepandeyakash/LeetCode/tree/master/0763-partition-labels) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thepandeyakash/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thepandeyakash/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Stack
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/thepandeyakash/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/thepandeyakash/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thepandeyakash/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
