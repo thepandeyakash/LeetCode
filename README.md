@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thepandeyakash/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thepandeyakash/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/thepandeyakash/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/thepandeyakash/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/thepandeyakash/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thepandeyakash/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thepandeyakash/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/thepandeyakash/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/thepandeyakash/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/thepandeyakash/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |
