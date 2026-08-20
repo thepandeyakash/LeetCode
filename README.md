@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/thepandeyakash/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/thepandeyakash/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/thepandeyakash/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/thepandeyakash/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/thepandeyakash/LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/thepandeyakash/LeetCode/tree/master/0282-expression-add-operators) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/thepandeyakash/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/thepandeyakash/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/thepandeyakash/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/thepandeyakash/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/thepandeyakash/LeetCode/tree/master/0146-lru-cache) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/thepandeyakash/LeetCode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/thepandeyakash/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/thepandeyakash/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/thepandeyakash/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0213-house-robber-ii) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/thepandeyakash/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/thepandeyakash/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thepandeyakash/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thepandeyakash/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thepandeyakash/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
 ## Game Theory
 |  |
 | ------- |
@@ -574,4 +579,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/thepandeyakash/LeetCode/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
