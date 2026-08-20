@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thepandeyakash/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/thepandeyakash/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thepandeyakash/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thepandeyakash/LeetCode/tree/master/0016-3sum-closest) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thepandeyakash/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/thepandeyakash/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thepandeyakash/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/0022-generate-parentheses) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thepandeyakash/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/thepandeyakash/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thepandeyakash/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0045-jump-game-ii) |
@@ -551,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thepandeyakash/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/thepandeyakash/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
