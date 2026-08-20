@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/thepandeyakash/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/thepandeyakash/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/thepandeyakash/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/thepandeyakash/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/thepandeyakash/LeetCode/tree/master/0877-stone-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thepandeyakash/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Backtracking
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/thepandeyakash/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/thepandeyakash/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/thepandeyakash/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/thepandeyakash/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/thepandeyakash/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/thepandeyakash/LeetCode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/thepandeyakash/LeetCode/tree/master/0860-lemonade-change) |
