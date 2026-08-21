@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thepandeyakash/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/thepandeyakash/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/thepandeyakash/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/thepandeyakash/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thepandeyakash/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/thepandeyakash/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/thepandeyakash/LeetCode/tree/master/0282-expression-add-operators) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/thepandeyakash/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thepandeyakash/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thepandeyakash/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/thepandeyakash/LeetCode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/thepandeyakash/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/thepandeyakash/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/thepandeyakash/LeetCode/tree/master/0139-word-break) |
@@ -601,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/thepandeyakash/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/thepandeyakash/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
